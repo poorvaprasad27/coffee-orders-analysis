@@ -28,7 +28,8 @@ This project is an interactive Coffee Sales Dashboard created using Microsoft Ex
 - Tracked overall sales trends from 2019–2022
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+<img width="593" height="297" alt="image" src="https://github.com/user-attachments/assets/a70947d9-eaea-4e81-8fb3-4e7812c83006" />
+
 
 ## Skills Demonstrated
 - Data Analysis
